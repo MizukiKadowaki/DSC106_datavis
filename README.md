@@ -13,11 +13,11 @@ Limitations:
 2. Movie offerings on these streaming platformes are constantly modified. This may not be the most up to date data. 
 
 ## File Structure
-dsc106_final_proj.ipynb - Python Notebook with all code and visualizations 
+dsc106_final_proj.ipynb　→　 Python Notebook with all code and visualizations 
 
-MoviesOnStreamingPlatforms_updated.csv - Main kaggle dataset used
+MoviesOnStreamingPlatforms_updated.csv　→　 Main kaggle dataset used
 
-countries.csv - Countries dataset used to graph choropleths
+countries.csv　→　 Countries dataset used to graph choropleths
 
 ## Libraries Used
 1. altair (https://altair-viz.github.io/)
