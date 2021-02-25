@@ -14,7 +14,9 @@ Limitations:
 
 ## File Structure
 dsc106_final_proj.ipynb - Python Notebook with all code and visualizations 
+
 MoviesOnStreamingPlatforms_updated.csv - Main kaggle dataset used
+
 countries.csv - Countries dataset used to graph choropleths
 
 ## Libraries Used
