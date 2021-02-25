@@ -19,6 +19,8 @@ MoviesOnStreamingPlatforms_updated.csv　→　 Main kaggle dataset used
 
 countries.csv　→　 Countries dataset used to graph choropleths
 
+Project Slides Presentation.pdf　→　 My Powerpoint slides for final Presentation
+
 ## Libraries Used
 1. altair (https://altair-viz.github.io/)
 2. pandas (https://pandas.pydata.org/)
