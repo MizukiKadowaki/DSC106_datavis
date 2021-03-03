@@ -26,6 +26,7 @@ Project Slides Presentation.pdf　→　 My Powerpoint slides for final Presenta
 2. pandas (https://pandas.pydata.org/)
 3. numpy (https://numpy.org/)
 4. venn (https://pypi.org/project/venn/)
+5. vega-datasets(https://pypi.org/project/vega-datasets/)
 
 ## Instructions
 1. Make sure all libraries are installed ↑
